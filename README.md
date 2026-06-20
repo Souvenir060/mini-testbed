@@ -16,7 +16,7 @@ User / Coordinator → NANDA Index → NANDA Registry → AgentFacts → A2A End
 ## Current status
 
 - Registry contains `agent-1` and `agent-2`
-- Index contains organization `shuwen-demo`
+- Index contains organization `yourname-demo`
 - Dashboard can resolve a URN, fetch CatalogEntry, fetch AgentFacts, select A2A endpoint, and call the agent
 
 ## Next goals
